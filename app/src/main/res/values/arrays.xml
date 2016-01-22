@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="books">
+		<item>上海总工会</item>
+		<item>广东总工会</item>
+		<item>北京总工会</item>
+	</string-array>
+ </resources>
+
